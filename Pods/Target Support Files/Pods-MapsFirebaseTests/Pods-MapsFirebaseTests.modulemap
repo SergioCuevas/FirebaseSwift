@@ -1,0 +1,6 @@
+framework module Pods_MapsFirebaseTests {
+  umbrella header "Pods-MapsFirebaseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
